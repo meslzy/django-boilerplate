@@ -1,0 +1,11 @@
+# Ide
+.idea/
+
+# env
+.env
+
+# venv
+venv/
+
+# open ai
+schema.yml
